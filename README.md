@@ -387,5 +387,8 @@ Insertion markdown type:
 
 ![docker rm -vf redis + docker rm -vf app01 + docker network rm mon-net](image-8.png)
 
+![docker compose up -d + docker ps](image-9.png)
 
+![Hello everyone! I have processed 1 requests.](image-10.png)
 
+![docker compose stop + docker compose rm](image-11.png)

@@ -1,0 +1,14 @@
+services:
+  web:
+    build:
+      context: ./app01
+      dockerfile: Dockerfile
+    container_name: app01
+    ports:
+      - "8080:8080"
+    depends_on:
+      - redis
+
+  redis:
+    image: redis:latest
+    container_name: redis
