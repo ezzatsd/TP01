@@ -392,3 +392,15 @@ Insertion markdown type:
 ![Hello everyone! I have processed 1 requests.](image-10.png)
 
 ![docker compose stop + docker compose rm](image-11.png)
+
+![docker compose up -d + docker ps](image-12.png)
+
+![WordPress](image-13.png)
+
+![WordPress](image-17.png)
+
+![PhpMyAdmin](image-14.png)
+
+![Docker compose stop + docker compose rm + docker compose up -d](image-15.png)
+
+![Vérifiez que le déploiement est réussi en se connectant à l’adresse suivante :](image-16.png)
