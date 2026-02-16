@@ -375,4 +375,10 @@ Insertion markdown type:
 
 ![docker build -t mesapps/app01 . + docker images ](image-2.png)
 
+![docker run -d --name app01 --network mon-net -p 8080:8080 mesapps/app01 + docker ps](image-3.png)
 
+![Hello everyone! I have processed 1 requests.](image-4.png)
+
+![Hello everyone! I have processed 2 requests.](image-5.png)
+
+![Hello everyone! I have processed 3 requests.](image-6.png)
