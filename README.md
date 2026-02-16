@@ -372,3 +372,7 @@ Insertion markdown type:
 ![docker network rm mon-net +  docker run -d --name redis redis:latest + docker network create mon-net + docker network connect mon-net redis ](image.png)
 
 ![docker network inspect mon-net](image-1.png)
+
+![docker build -t mesapps/app01 . + docker images ](image-2.png)
+
+
