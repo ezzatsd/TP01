@@ -382,3 +382,10 @@ Insertion markdown type:
 ![Hello everyone! I have processed 2 requests.](image-5.png)
 
 ![Hello everyone! I have processed 3 requests.](image-6.png)
+
+![docker container exec -it app01 /bin/sh](image-7.png)
+
+![docker rm -vf redis + docker rm -vf app01 + docker network rm mon-net](image-8.png)
+
+
+
